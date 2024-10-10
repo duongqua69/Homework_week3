@@ -2,7 +2,7 @@
 #include "LED.h"
 #include <OneButton.h>
 
-// Giả sử LED_PIN, LED_ACT, BTN_PIN, BTN_ACT đã được định nghĩa ở nơi khác
+
 LED led(LED_PIN, LED_ACT);
 
 void btnPush();
